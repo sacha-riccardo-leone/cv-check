@@ -1,0 +1,10 @@
+{
+  "name": "cv-check",
+  "version": "0.1.0",
+  "description": "Checks a resume or cover letter for ATS parsing traps, missing job keywords and recruiter-repelling clichés, then fixes them with you. Its word list grows with you.",
+  "author": { "name": "Sacha", "url": "https://github.com/sacha-riccardo-leone" },
+  "homepage": "https://github.com/sacha-riccardo-leone/cv-check",
+  "repository": "https://github.com/sacha-riccardo-leone/cv-check",
+  "license": "MIT",
+  "keywords": ["resume", "cv", "cover-letter", "ats", "job", "lettre-de-motivation"]
+}

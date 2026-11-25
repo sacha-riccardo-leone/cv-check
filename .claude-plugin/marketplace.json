@@ -1,0 +1,17 @@
+{
+  "name": "cv-check",
+  "owner": {
+    "name": "sacha-riccardo-leone"
+  },
+  "metadata": {
+    "description": "Checks a resume or cover letter for ATS parsing traps, missing job keywords and recruiter-repelling clichés, then fixes them with you. Its word list grows with you."
+  },
+  "plugins": [
+    {
+      "name": "cv-check",
+      "source": "./",
+      "description": "Checks a resume or cover letter for ATS parsing traps, missing job keywords and recruiter-repelling clichés, then fixes them with you. Its word list grows with you.",
+      "version": "0.1.0"
+    }
+  ]
+}
